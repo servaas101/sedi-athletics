@@ -42,7 +42,7 @@ This is a multi-tenant SaaS athletics and sports events management system built 
 
 6.  **Run migrations and seed the database:**
     ```bash
-    php artisan migrate:fresh --seed
+    php artisan migrate --seed
     ```
 
 7.  **Start the Laravel development server:**
